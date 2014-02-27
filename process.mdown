@@ -2,20 +2,20 @@
 ## Defination of concept
 ###Input
 *what information we need from our client/end users? How can we involve them more in the concept process*
-  1. user research, interviews.
-  2. Workshop
-  3. Inspiration / moodboard / google
-  4. Brainstorm
+1. user research, interviews.
+2. Workshop
+3. Inspiration / moodboard / google
+4. Brainstorm
 
-2. Output  
-  What does concept output mean to the final delivery?
-  1. Stlye tiles
-  2. Wireframes
-  3. Powerpoint
-  4. Visual direction sketches
-  5. Prototype on interaction design
+###Output  
+*What does concept output mean to the final delivery?*  
+1. Stlye tiles
+2. Wireframes
+3. Powerpoint
+4. Visual direction sketches
+5. Prototype on interaction design
 
-3. Check list
+###Check list
   * Did we explore alternative on different visual directins?
   * Did we discuss about alternative solutions? Especially with someone else from the digital team.
   * Do we need a wingman for the job?
@@ -23,16 +23,16 @@
   * Did we/our developers write a technical specification?
 
 ## Defination of deliverables
-1. Input
-  1. design
-  2. development
+###Input
+1. design
+2. development
 
-2. Output
-  1. Photoshop, illustrator
-  2. front-end delivery
-  3. Live site
+###Output
+1. Photoshop, illustrator
+2. front-end delivery
+3. Live site
 
-3. Check list
-  * Can design files answer the questions we discussed in the concept phase?
-  * Did we check our design in real devices?
-  * Is it necesssary to make a mini-guide, so the design file are easier to read?
+###Check list
+* Can design files answer the questions we discussed in the concept phase?
+* Did we check our design in real devices?
+* Is it necesssary to make a mini-guide, so the design file are easier to read?
