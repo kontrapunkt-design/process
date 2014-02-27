@@ -1,7 +1,7 @@
 # Process
 ## Defination of concept
   1.Input  
-    what information we need from our client/end users? How can we involve them more in the concept process
+  what information we need from our client/end users? How can we involve them more in the concept process
     1. user research, interviews.
     2. Workshop
     3. Inspiration / moodboard / google
@@ -22,18 +22,17 @@
     * Have we reviewed/looked at the earliear similar projects?
     * Did we/our developers write a technical specification?
 
-  ## Defination of deliverables
+## Defination of deliverables
+  1.Input
+     1. design
+     2. development
 
-     1.Input
-       1. design
-       2. development
+  2.Output
+     1. Photoshop, illustrator
+     2. front-end delivery
+     3. Live site
 
-     2.Output
-       1. Photoshop, illustrator
-       2. front-end delivery
-       3. Live site
-
-     3.Check list
-       * Can design files answer the questions we discussed in the concept phase?
-       * Did we check our design in real devices?
-       * Is it necesssary to make a mini-guide, so the design file are easier to read?
+  3.Check list
+     * Can design files answer the questions we discussed in the concept phase?
+     * Did we check our design in real devices?
+     * Is it necesssary to make a mini-guide, so the design file are easier to read?
