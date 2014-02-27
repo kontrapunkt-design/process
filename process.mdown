@@ -1,6 +1,5 @@
 # Process
-
-  ##Defination of concept  
+  ## Defination of concept
   1.Input  
    what information we need from our client/end users? How can we involve them more in the concept process
     1. user research, interviews.
@@ -23,7 +22,7 @@
     * Have we reviewed/looked at the earliear similar projects?
     * Did we/our developers write a technical specification?
 
-  ##Defination of deliverables
+  ## Defination of deliverables
 
      1.Input
        1. design
