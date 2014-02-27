@@ -1,11 +1,12 @@
 # Process
   ## Defination of concept
+  
      1.Input  
-       *what information we need from our client/end users? How can we involve them more in the concept process*
-       1. user research, interviews.
-       2. Workshop
-       3. Inspiration / moodboard / google
-       4. Brainstorm
+         *what information we need from our client/end users? How can we involve them more in the concept process*
+         1. user research, interviews.
+         2. Workshop
+         3. Inspiration / moodboard / google
+         4. Brainstorm
 
      2. Output  
        *What does concept output mean to the final delivery?*
@@ -23,6 +24,7 @@
        * Did we/our developers write a technical specification?
 
   ## Defination of deliverables
+
      1.Input
        1. design
        2. development
