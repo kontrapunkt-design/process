@@ -1,7 +1,7 @@
 # Process
 ## Defination of concept
-###Input  
-  *what information we need from our client/end users? How can we involve them more in the concept process*
+###Input
+*what information we need from our client/end users? How can we involve them more in the concept process*
     1. user research, interviews.
     2. Workshop
     3. Inspiration / moodboard / google
